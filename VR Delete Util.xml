@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-05-21 17:28:51">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>VR Delete Util_BATCH</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="VR Delete Util_BATCH">71568901db1cf090e86fb2bd2b961972</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>09264501db1cf090e86fb2bd2b96194d</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-21 17:28:51</sys_created_on>
+<sys_id>71568901db1cf090e86fb2bd2b961972</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-21 17:28:51</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>VR Delete Util_BATCH</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="VR Delete Util_BATCH">71568901db1cf090e86fb2bd2b961972</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>09264501db1cf090e86fb2bd2b96194d</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-21 17:28:51</sys_created_on>
+<sys_id>71568901db1cf090e86fb2bd2b961972</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-21 17:28:51</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</application>
+<application_name>Vulnerability Response</application_name>
+<application_scope>sn_vul</application_scope>
+<application_version>13.0.3</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>VR Delete Util_VR</name>
+<origin_sys_id/>
+<parent display_value="VR Delete Util_BATCH">71568901db1cf090e86fb2bd2b961972</parent>
+<release_date/>
+<remote_base_update_set display_value="VR Delete Util_BATCH">71568901db1cf090e86fb2bd2b961972</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>77b5cdcddbd8f090e86fb2bd2b961967</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-21 17:28:51</sys_created_on>
+<sys_id>7d568901db1cf090e86fb2bd2b961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-21 17:28:51</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>VR Delete Util_GLB</name>
+<origin_sys_id/>
+<parent display_value="VR Delete Util_BATCH">71568901db1cf090e86fb2bd2b961972</parent>
+<release_date/>
+<remote_base_update_set display_value="VR Delete Util_BATCH">71568901db1cf090e86fb2bd2b961972</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>c4d50101db1cf090e86fb2bd2b961926</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-21 17:28:51</sys_created_on>
+<sys_id>b9568901db1cf090e86fb2bd2b961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-21 17:28:51</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_4b917cbcdbd8f410f3c7ae441b9619af</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description&gt;VIT0019376,VIT0019390,VIT0019371,VIT0019374&lt;/description&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;Delete VR Data&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[//example
+//util.deleteBatch('TABLE NAME', 'ENCODED QUERY');
+
+var util = new global.DeleteUtilVR();
+//Delete VI, Detection, Discovered Item, VI M2M relation
+util.deleteBatch('sn_vul_vulnerable_item', 'number!=NULL');
+//Delete Vul Group
+util.deleteBatch('sn_vul_vulnerability', 'number!=NULL');
+//Delete Third Party
+util.deleteBatch('sn_vul_third_party_entry', 'id!=NULL');
+//Delete Umatched CI
+util.deleteBatch('sn_sec_cmn_unmatched_ci', 'name!=NULL');
+//Delete Discovered Items 
+util.deleteBatch('sn_sec_cmn_src_ci', 'number!=NULL');
+//Delete Detections 
+util.deleteBatch('sn_vul_detection', 'sys_updated_by=VR.System');
+//Delete Exploits
+util.deleteBatch('sn_vul_exploit', 'source=Qualys');
+//Delete VG 2 VI
+util.deleteBatch('sn_vul_m2m_vul_group_item', 'sn_vul_vulnerabilityISNOTEMPTY');
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-20 21:24:03&lt;/sys_created_on&gt;&lt;sys_id&gt;4b917cbcdbd8f410f3c7ae441b9619af&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Delete VR Data&lt;/sys_name&gt;&lt;sys_package display_value="Vulnerability Response" source="sn_vul"&gt;054cdcc2ff200200158bffffffffff94&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vulnerability Response"&gt;054cdcc2ff200200158bffffffffff94&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_4b917cbcdbd8f410f3c7ae441b9619af&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;john.gibbons&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-21 17:05:23&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>821202146</payload_hash>
+<remote_update_set display_value="VR Delete Util_VR">7d568901db1cf090e86fb2bd2b961972</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-21 17:28:51</sys_created_on>
+<sys_id>31568901db1cf090e86fb2bd2b961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1798ff7b89b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-21 17:28:51</sys_updated_on>
+<table/>
+<target_name>Delete VR Data</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>c5068101301cf090e851a9e77dc0c3ae</update_guid>
+<update_guid_history>c5068101301cf090e851a9e77dc0c3ae:821202146,f5f0458de85c3810eb925a6262f9b852:821202146,bdeca4c53f1c38107e8475eae4ca6e42:218795254,64d068c5d51c38108b496f6badec891c:-2051123178,76e97834cf1cf410a26176d9933529c4:547824065,3ce978348e1cf410e0d9764df3b3afbf:1096348862,446670b0091cf410bba11368c3e7c0c9:-1485406873,fbc5b870a71cf410124792e7b830d704:1347870564,8f137cfc2dd8f4106211271c7b86e143:887783799,a1d23cfc29d8f410832cf6e8bd153030:412905212,119238fc15d8f410e27fd1424d041138:-554490658</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_73f4f070db1cf410f3c7ae441b96198a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.DeleteUtilVR&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;DeleteUtilVR&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var DeleteUtilVR = Class.create();
+DeleteUtilVR.prototype = {
+    initialize: function() {},
+
+    deleteBatch: function(pTable, pEncodedQuery) {
+
+        gs.info('VR - Before Delete: Table: ' + pTable + ' _ ' + this._getRecordCount(pTable, pEncodedQuery));
+
+        try {
+            var md = new GlideMultipleDelete(pTable);
+            md.addQueryString(pEncodedQuery);
+            md.execute();
+        } finally {
+            gs.info('VR - After Delete: Table: ' + pTable + ' _ ' + this._getRecordCount(pTable, pEncodedQuery));
+        }
+    },
+
+    _getRecordCount: function(pTable, pEncodedQuery) {
+        var ga = new GlideAggregate(pTable);
+        ga.addEncodedQuery(pEncodedQuery);
+        ga.addAggregate('COUNT');
+        ga.query();
+        var rowCount = 0;
+        if (ga.next())
+            rowCount = ga.getAggregate('COUNT');
+        return rowCount;
+    },
+
+    type: 'DeleteUtilVR'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-20 21:36:30&lt;/sys_created_on&gt;&lt;sys_id&gt;73f4f070db1cf410f3c7ae441b96198a&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;DeleteUtilVR&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_73f4f070db1cf410f3c7ae441b96198a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;john.gibbons&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-21 15:37:36&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>719213700</payload_hash>
+<remote_update_set display_value="VR Delete Util_GLB">b9568901db1cf090e86fb2bd2b961973</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-21 17:28:51</sys_created_on>
+<sys_id>7d568901db1cf090e86fb2bd2b961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1798ff745950000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-21 17:28:51</sys_updated_on>
+<table/>
+<target_name>DeleteUtilVR</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>cee54101a61cf090a542194bf1de13a6</update_guid>
+<update_guid_history>cee54101a61cf090a542194bf1de13a6:719213700,33dc2481ba5c3810944bbb9e253158e3:719213700,63653870a01cf41059a27a7fa84f5f73:-1548549382</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
